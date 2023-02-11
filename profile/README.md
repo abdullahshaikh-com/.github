@@ -13,4 +13,4 @@
 
 
 
-![alt text](.Abdullahshaikhcom-logos/Abdullahshaikhcom-logos_transparent.png)
+![alt text](./Abdullahshaikhcom-logos/Abdullahshaikhcom-logos_transparent.png)
