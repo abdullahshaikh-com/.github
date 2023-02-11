@@ -1,4 +1,4 @@
-# [Abdullah Shaikh - Github - Landing page]
+# Abdullah Shaikh - Github - Landing page
 
 ![alt text](./Abdullahshaikhcom-logos/Abdullahshaikhcom-logos_transparent.png)
 
