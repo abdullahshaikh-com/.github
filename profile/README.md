@@ -13,4 +13,4 @@
 
 
 
-![alt text](.github/profile/Abdullahshaikhcom-logos/Abdullahshaikhcom-logos_transparent.png)
+![alt text](.Abdullahshaikhcom-logos/Abdullahshaikhcom-logos_transparent.png)
